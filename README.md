@@ -32,3 +32,17 @@ React with Typescript client started from [template](./client/material-ui-nextjs
 ### Server
 
 Go backend.
+
+## Part 2 - Simple Communication
+
+```bash
+cd server
+go run main.go
+```
+
+```bash
+cd client
+npm run dev
+```
+
+Go to <http://localhost:3000/chat> and hit button.  See "hello" in (Firefox) console and in server log.

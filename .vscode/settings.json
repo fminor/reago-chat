@@ -1,0 +1,18 @@
+{
+    // Code Spell Checker settings
+    "cSpell.words": [
+        "devcontainers",
+        "Interactor",
+        "nethttp",
+        "openapi",
+        "reago",
+        "swaggest",
+        "swgui",
+        "usecase"
+    ],
+    // Go for Visual Studio Code settings
+    "go.lintTool": "golangci-lint",
+    "go.lintFlags": [
+        "--fast"
+    ]
+}
